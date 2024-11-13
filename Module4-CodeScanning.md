@@ -233,10 +233,6 @@ In this task, you will set up and use CodeQL in Visual Studio Code to analyze a 
 
     >**Note**: If a pop up appears to login, click on Login from borwser and Sign in with GitHub Credentials and on the Authorize GitHub for VS Code page click on the Authorize Visual-Studio-Code.
 
-17. This results helps to understand the classification and usage of these entities in the code.
-
-    ![Picture1](./images/module4task4code2.png)
-
 Please feel free to go through the document for further understanding:[Code Security](https://docs.github.com/en/code-security) and [CodeQL Documentation](https://codeql.github.com/docs/)
 
 ## Task 5: Turn on GitHub Advanced Security for Organization.
